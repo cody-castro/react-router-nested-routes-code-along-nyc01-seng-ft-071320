@@ -10,8 +10,8 @@ class App extends Component {
 
   state = {
     movies: {
-      1: { id: 1, title: 'A River Runs Through It' },
-      2: { id: 2, title: 'Se7en' },
+      1: { id: 1, title: 'The Lion King' },
+      2: { id: 2, title: 'The Social Network' },
       3: { id: 3, title: 'Inception' }
     }
   }
